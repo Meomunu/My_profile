@@ -1,0 +1,32 @@
+h1{
+    margin-bottom: 0px;
+}
+.img{
+    margin-top: 30px; 
+    margin-bottom: 2000px;
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+body{
+    text-align: center;
+    background-color: #07020D;
+    color: #79B791;
+}
+a{ 
+    font-size: 25px;
+    color: #E4F0D0;
+    text-decoration: none;
+    background-color: #0F5257; 
+    padding: 7px 15px; 
+    border-radius: 7px;
+    margin: 20px;
+}
+img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10%;
+    animation-name: caaaat;
+    animation-duration:  2s;
+}

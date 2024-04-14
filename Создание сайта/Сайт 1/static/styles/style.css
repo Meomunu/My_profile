@@ -1,0 +1,25 @@
+.img {
+  display: inline-block;
+  text-align: center;
+  background-color: aliceblue;
+}
+p {
+  font-size: 24px;
+  background-color: aliceblue;
+}
+li {
+  font-size: 24px;
+  background-color: aliceblue;
+}
+a {
+  font-size: 24px;
+  color: #e4f0d0;
+  text-decoration: none;
+  background-color: #0f5257;
+  padding: 1px 10px;
+  border-radius: 7px;
+}
+a:hover{
+    background-color: #B4EDD2;
+    transition: 1s;
+}
